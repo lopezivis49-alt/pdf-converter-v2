@@ -1,5 +1,1 @@
 streamlit
-pdf2docx
-pdfplumber
-python-docx
-pillow
